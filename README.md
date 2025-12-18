@@ -13,6 +13,15 @@ It presents curated walking and cycling routes enriched with editorial content, 
 
 The main goal of the app is to provide an intuitive and visually rich way for users to explore outdoor routes and nearby points of interest.
 
+## Screenshots
+
+The screenshots below highlight the region overview and route detail screens of the application.
+
+<p align="center">
+  <img src="screenshots/region-north-overview.png" width="250" />
+  <img src="screenshots/route-detail-summary-kaiser-wilhelm-koog.png" width="250" />
+</p>
+
 ---
 
 ## Key Features
